@@ -1,2 +1,2 @@
-# jpeg_image_proc
-JPEG Code for Image Processing Course
+# jpeg_tcm_customized_mac
+JPEG Encoder and Decoder
